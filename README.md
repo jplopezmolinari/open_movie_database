@@ -11,4 +11,4 @@ Main objective was to develop a site that use an API. Develope back and front en
 - Redux Logger
 - React Router DOM
 - YUP
-- 
+-
